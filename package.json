@@ -1,0 +1,11 @@
+{
+  "name": "com.ugames.datastoragemodule",
+  "displayName": "Data Storage Module",
+  "version": "1.1.1",
+  "unity": "2021.1",
+  "unityRelease": "6f1",
+  "category": "Module",
+  "author": {
+    "name": "LittleBitGames"
+  }
+}

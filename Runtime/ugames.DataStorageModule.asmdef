@@ -1,0 +1,16 @@
+{
+    "name": "ugames.DataStorageModule",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b4f7b59e66f3b42cf95c5358d565c84f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
