@@ -7,7 +7,7 @@ using LittleBit.Modules.CoreModule;
 using UnityEngine;
 using UnityEngine.Scripting;
 
-namespace LittleBit.Modules.StorageModule
+namespace ugames.Modules.StorageModule
 {
     public class DataStorageService : IDataStorageService, ISavable
     {

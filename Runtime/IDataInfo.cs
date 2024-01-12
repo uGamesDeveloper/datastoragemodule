@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using LittleBit.Modules.CoreModule;
 
-namespace LittleBit.Modules.StorageModule
+namespace ugames.Modules.StorageModule
 {
     public interface IDataInfo
     {
